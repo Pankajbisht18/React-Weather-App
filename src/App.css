@@ -19,8 +19,8 @@
     width: 100px;
 }
 .result{
-    background: linear-gradient(120deg,#00D8FF,#FFFFFF);
-    width: 30%;
+    background: linear-gradient(90deg, rgba(88,80,18,1) 0%, rgba(145,144,26,1) 64%, rgba(187,157,44,1) 100%);
+    width: 20%;
     border-radius: 20px;
     position: absolute;
     top: 50%;
