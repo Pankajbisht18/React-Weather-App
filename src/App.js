@@ -55,7 +55,7 @@ const App = () => {
   return(
     <>
       <div className="container text-center mt-5 search">
-        <h1>Wether App....!</h1>
+        <h1 className="text-success">Wether App....!</h1>
         <input 
           type="text" 
           placeholder="Enter City Name"
